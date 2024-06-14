@@ -8,8 +8,7 @@ while(cap.isOpened()):
     classificador = cv2.CascadeClassifier('./haarcascade_frontalcatface.xml')
 
 
-    # This condition prevents from infinite looping
-    # incase video ends.
+   
     if ret == False:
         break
 
