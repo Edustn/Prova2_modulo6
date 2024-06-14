@@ -45,8 +45,10 @@ Obs: Artigo utilizado para pegar a base de dados para analisar as emoções das 
 # Execução do programa:
 1 - Clone esse repositório, com o seguinte comando `git clone 'https://github.com/Edustn/Prova2_modulo6.git'`
 
-2 - Baixe o Python e a biblioteca CV2.
+2 - Após isso abra o VS Code e o terminal integrado do mesmo. 
 
-3 - Execute o comando `python3 main.py`
+3 - No terminal integrado baixe as dependências necessárias do projeto. Para isso, `pip install -r requirements.txt`
+
+4 - Agora para ver o programa sendo executado execute no terminal integrado `python3 main.py`
 
 Link para o vídeo: [https://drive.google.com/file/d/1ok6ATurKnTz9ZBDafXno4PAh9YQmXQNE/view?usp=sharing](https://drive.google.com/file/d/1ok6ATurKnTz9ZBDafXno4PAh9YQmXQNE/view?usp=sharing)
