@@ -35,7 +35,7 @@ NN Linear
 Essa nova ordem se daria pelo fato de ser necessário abordagens mais profundas agora do que somente analisar uma face, ou seja, essa nova disposição dos algoritmos teria que analisar de uma maneira masis profunda cada rosto e cada sutileza que se faz na expressão de cada rosto.
 
 ## 2.4 
-Sim, todos os algoritmos listados podem considerar variação de um frame para outro se devidamente treinados.
+Nem todos os algoritmos listados podem considerar variação de um frame para outro, isso porque alguns deles são mais simples e não pussem camadas suficientes para filtrar essa variação. Sendo assim, para isso sanar essa dificuldade seria necessário mapear todas essas emoções e fazer um dataset de treino com essas expressões mais pontuadas e colcoar o modelo novamente para ser treinado e predizer novas, assim o tornando mais sensível a variações e identificando melhor cada uma.
 
 
 Obs: Artigo utilizado para pegar a base de dados para analisar as emoções das pessoas: https://www.aprendizartificial.com/deteccao-de-emocoes-em-video-com-python-e-deep-learning/
