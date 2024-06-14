@@ -48,3 +48,5 @@ Obs: Artigo utilizado para pegar a base de dados para analisar as emoções das 
 2 - Baixe o Python e a biblioteca CV2.
 
 3 - Execute o comando `python3 main.py`
+
+Link para o vídeo: [https://drive.google.com/file/d/1ok6ATurKnTz9ZBDafXno4PAh9YQmXQNE/view?usp=sharing](https://drive.google.com/file/d/1ok6ATurKnTz9ZBDafXno4PAh9YQmXQNE/view?usp=sharing)
