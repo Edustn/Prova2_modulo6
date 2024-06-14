@@ -49,6 +49,6 @@ Obs: Artigo utilizado para pegar a base de dados para analisar as emoções das 
 
 3 - No terminal integrado baixe as dependências necessárias do projeto. Para isso, `pip install -r requirements.txt`
 
-4 - Agora para ver o programa sendo executado execute no terminal integrado `python3 main.py`
+4 - Agora para ver o programa sendo executado execute no terminal integrado `python3 main.py` e que gera o também o `video.mp4` com os novos frames demarcados.
 
 Link para o vídeo: [https://drive.google.com/file/d/1ok6ATurKnTz9ZBDafXno4PAh9YQmXQNE/view?usp=sharing](https://drive.google.com/file/d/1ok6ATurKnTz9ZBDafXno4PAh9YQmXQNE/view?usp=sharing)
