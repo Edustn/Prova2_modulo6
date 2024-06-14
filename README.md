@@ -1,7 +1,7 @@
 # Perguntas:
 ## 2.1. 
 
-O método escolhido foi o HAAR Cacade. Se trata de um algoritmo de detecção de objetos e faces, que utiliza uma série de características simples, Hear-like features, calculadas rapidamente por meio da imagem integarl, a qual é baseada em 3 componetes principais: imagem integral, seleção de características e casacade de classificadores.
+O método escolhido foi o HAAR Cacade. Se trata de um algoritmo de detecção de objetos e faces, que utiliza uma série de características simples, Hear-like features, calculadas rapidamente por meio da imagem integarl. Nesse sentido o HAAR Cascade é baseada em 3 componetes principais: imagem integral, seleção de características e casacade de classificadores.
 
 ## 2.2 A ordem seria: 
 
